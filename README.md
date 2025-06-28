@@ -12,6 +12,8 @@ Expected Output:
 
 <img width="484" alt="image" src="https://github.com/user-attachments/assets/2eafee3d-de78-430f-91c7-28b1d3643d0b" />
 
+
+
 2.) Hangman Game Program
 Date: 6/12/2025
 
@@ -25,6 +27,8 @@ to accept or decline.
 Expected Output:
 
 <img width="603" alt="image" src="https://github.com/user-attachments/assets/988bff10-61b5-4f36-b8aa-7bb8ffdaed5c" />
+
+
 
 3.) Unit Conversion Program
 Date: 6/14/2025
