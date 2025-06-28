@@ -9,6 +9,7 @@ reference to pass the user input to the Calculation function without making any 
 and wasting memory.
 
 Expected Output:
+
 <img width="484" alt="image" src="https://github.com/user-attachments/assets/2eafee3d-de78-430f-91c7-28b1d3643d0b" />
 
 2.) Hangman Game Program
@@ -22,6 +23,7 @@ and will be asked if they want to play again whether they win or lose to which t
 to accept or decline.
 
 Expected Output:
+
 <img width="603" alt="image" src="https://github.com/user-attachments/assets/988bff10-61b5-4f36-b8aa-7bb8ffdaed5c" />
 
 3.) Unit Conversion Program
@@ -33,6 +35,7 @@ checking so as to avoid invalid inputs and uses pass by reference to essentially
 as opposed to creating new values and wasting memory.
 
 Expected Output:
+
 <img width="1003" alt="image" src="https://github.com/user-attachments/assets/d1733c9a-83e8-4c4f-ae45-432574851dcb" />
 
 
