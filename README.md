@@ -1,4 +1,4 @@
-# Intermediate-CPlusPlus-Projects
+# Beginner-CPlusPlus-Projects
 
 1.) Calculator Program
 Date: 6/10/2025
